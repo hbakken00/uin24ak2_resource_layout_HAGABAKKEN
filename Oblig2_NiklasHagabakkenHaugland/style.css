@@ -39,9 +39,6 @@ body {
   background-color: #fff;
   color: #2a324b;
 }
-.active-tab a:hover {
-  text-decoration: #2a324b;
-}
 
 .meny-innhold {
   padding: 20px;
